@@ -1,4 +1,4 @@
--- Keep a log of any SQL queries you execute as you solve the mystery.
+--> Keep a log of any SQL queries you execute as you solve the mystery.
 SELECT * FROM crime_scene_reports;
 
 SELECT * FROM crime_scene_reports WHERE day == 28 AND month == 7 AND year == 2020 AND street LIKE "Chamberlin%";
